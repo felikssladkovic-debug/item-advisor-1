@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "94141989c342c203",
+        "id": "2a20bb38d613dbda",
         "type": "tabs",
         "children": [
           {
-            "id": "6cf5e38ca4deef66",
+            "id": "f0bfc6371d83f059",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "spec/08-prompts/incremental/codex-add-feature-template.md",
+                "file": "spec/00-meta/05-business-rules.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "codex-add-feature-template"
+              "title": "05-business-rules"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "spec/08-prompts/incremental/codex-add-feature-template.md",
+                "file": "spec/00-meta/05-business-rules.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для codex-add-feature-template"
+              "title": "Обратные ссылки для 05-business-rules"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "spec/08-prompts/incremental/codex-add-feature-template.md",
+                "file": "spec/00-meta/05-business-rules.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из codex-add-feature-template"
+              "title": "Исходящие ссылки из 05-business-rules"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "spec/08-prompts/incremental/codex-add-feature-template.md",
+                "file": "spec/00-meta/05-business-rules.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура codex-add-feature-template"
+              "title": "Структура 05-business-rules"
             }
           }
         ]
@@ -183,8 +183,28 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "6cf5e38ca4deef66",
+  "active": "f0bfc6371d83f059",
   "lastOpenFiles": [
+    "spec/00-meta/03-actors-and-goals.md",
+    "spec/00-meta/01-vision.md",
+    "spec/01-conceptual/01-vision.md",
+    "spec/01-conceptual/08-quality-attributes.md",
+    "spec/01-conceptual/07-architecture-overview.md",
+    "spec/01-conceptual/06-system-context.md",
+    "spec/01-conceptual/05-business-rules.md",
+    "spec/01-conceptual/04-domain-model.md",
+    "spec/01-conceptual/03-actors-and-goals.md",
+    "spec/01-conceptual/02-product-map.md",
+    "spec/02-delivery/03-slice-public-catalog.md",
+    "spec/02-delivery/04-slice-item-details.md",
+    "spec/02-delivery/05-slice-user-reviews.md",
+    "spec/06-validation/acceptance/AC-admin-items.md",
+    "spec/06-validation/checklists/release-checklist.md",
+    "spec/06-validation/checklists/regression-checklist.md",
+    "spec/06-validation/checklists/mvp-demo-checklist.md",
+    "spec/06-validation/checklists/local-run-checklist.md",
+    "spec/03-features/features/FEAT-admin-item-crud.md",
+    "spec/02-delivery/00-roadmap.md",
     "spec/08-prompts/full/codex-build-mvp.md",
     "spec/08-prompts/incremental/codex-add-feature-template.md",
     "spec/08-prompts/incremental/codex-generate-tests-from-spec.md",
